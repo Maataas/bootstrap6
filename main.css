@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+
+.spacer {
+    margin-top: 100px;
+}
+
+.black {
+    background-color: black;
+}
+
+div {
+    color: white;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.red {
+    background-color: white;
+}
+
+.AB {
+    height: 100px;
+}
+
+.A {
+    width: 206px;
+}
+
+.B {
+    width: 407px;
+}
+
+.CD {
+    height: 75px;
+}
+
+.E {
+    width: 508px;
+}
+
+.FG {
+    width: 142px;
+}
+
+.G {
+    height: 190px;
+}
+
+.H {
+    margin-top: 180px;
+    height: 77px;
+}
